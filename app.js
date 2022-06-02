@@ -8,6 +8,7 @@ for (let i = 0; i < 100; i++) {
   }
 }
 
+
 // Exercise 2 Section
 console.log("EXERCISE 2:\n==========\n");
 for (let i = 0; i < 100; i++) {
